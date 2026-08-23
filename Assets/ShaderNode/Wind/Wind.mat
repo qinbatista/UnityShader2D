@@ -41,12 +41,12 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _MaskValue: 11.66
-    - _WindImpact: 0.32
-    - _WindScale: 1.27
-    - _WindStrong: 0.2
+    - _MaskValue: 1
+    - _WindImpact: 2.4
+    - _WindScale: 1.59
+    - _WindStrong: 0.09
     m_Colors:
-    - _WindDirection: {r: 3.02, g: 6.04, b: 0, a: 0}
+    - _WindDirection: {r: 1.64, g: 0, b: 0, a: 0}
     - _WindVector: {r: 1, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1

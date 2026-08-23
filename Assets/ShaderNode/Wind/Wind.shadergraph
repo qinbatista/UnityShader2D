@@ -1130,8 +1130,8 @@
     "m_ObjectId": "1cd3b02ea24c48d9891e69b4369d1ddd",
     "m_Title": "Scrolling Wind",
     "m_Position": {
-        "x": -3292.84765625,
-        "y": -1012.7607421875
+        "x": -3531.0,
+        "y": -1020.5
     }
 }
 
@@ -1503,6 +1503,7 @@
     },
     "isMainTexture": false,
     "useTilingAndOffset": false,
+    "useTexelSize": true,
     "m_Modifiable": true,
     "m_DefaultType": 0
 }
@@ -1979,7 +1980,7 @@
     "m_StageCapability": 3,
     "m_BareResource": false,
     "m_Texture": {
-        "m_SerializedTexture": "{\"texture\":{\"instanceID\":0}}",
+        "m_SerializedTexture": "",
         "m_Guid": ""
     },
     "m_DefaultType": 0
@@ -2394,8 +2395,8 @@
     "m_ObjectId": "70e3c93d30be4c5cab9dde80b5ae58dc",
     "m_Title": "Impact",
     "m_Position": {
-        "x": -1750.34716796875,
-        "y": -1007.7606201171875
+        "x": -1750.5,
+        "y": -1008.0
     }
 }
 
